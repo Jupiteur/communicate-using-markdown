@@ -11,3 +11,7 @@ $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
 
+## My current goals
+
+- [ ] Take over the world
+- [x] Eat
